@@ -33,4 +33,4 @@ My journey in Information Technology has led me to develop a passion for cyberse
 </div>
 
 ## Projects
-- MS Azure SOC Lab
+- <a href="https://github.com/sohluhs/Azure-SOC-Lab">MS Azure SOC Lab</a>
