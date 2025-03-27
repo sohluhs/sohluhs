@@ -12,7 +12,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/sohluhs/Azure-SOC-Lab">MS Azure SOC Lab</a>|
-
+| KQL Querying                                  | <a href="https://github.com/sohluhs/Azure-SOC-Lab">MS Azure SOC Lab</a>|
+| Microsoft Azure Infrastructure Implementaiton | <a href="https://github.com/sohluhs/Azure-SOC-Lab">MS Azure SOC Lab</a>|
 ## Tools
 
 ### SIEM
