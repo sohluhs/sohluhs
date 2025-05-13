@@ -1,5 +1,4 @@
 # Hello, I'm Rene
-<a href="https://www.linkedin.com/in/rene-castillo-187463194"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an aspiring cyber security professional with a profound interest in technology and a dedication to solving complex problems.
 
